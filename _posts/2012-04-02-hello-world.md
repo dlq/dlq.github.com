@@ -2,7 +2,7 @@
 layout: post
 title: "Hello World"
 description: ""
-category: 
-tags: []
+categories: [post]
+tags: [first]
 ---
 {% include JB/setup %}

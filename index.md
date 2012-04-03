@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Darcy Quesnel
-category: home
-tags: home
+categories: [home]
+tags: [home]
 ---
 {% include JB/setup %}
 
